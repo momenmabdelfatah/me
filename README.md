@@ -7,6 +7,34 @@
   </a>
 </p>
 
+
+
+### 🧰 Tech Stack
+
+<p align="center">
+        src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="81" height="81" /><img
+      src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="81" height="81" /><img
+      src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="81" height="81" /><img
+      src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="81" height="81" /><img
+      src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="81" height="81" /><img
+      src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="81" height="81" /></div>
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg"
+      alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon"
+      width="81" height="81" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="81"
+      height="81" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="81"
+      height="81" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="81"
+      height="81" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="81"
+      height="81" /></div>
+</p>
+
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+---
+
+<p align="left">
 ---
 
 ### 🧠 About Me
@@ -18,24 +46,8 @@
 - 📄 [My Resume](https://momenmabdelfatah.github.io/Resume/)
 
 ---
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" alt="Python" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" alt="Java" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" alt="GitHub" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" />
 </p>
 
----
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
----
 
 ### 🌐 Connect with Me
 
