@@ -44,10 +44,10 @@ src="https://img.shields.io/twitter/follow/mo2abdelfatah?logo=twitter&style=for-
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/momenmabdelfatah/momenmabdelfatah/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/momenmabdelfatah/count.svg?"  />
+  <img src="[https://profile-counter.glitch.me/momenmabdelfatah/count.svg?](https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/pacman.svg)"  />
 </div>
 
 ###
