@@ -3,9 +3,25 @@ src="https://img.shields.io/github/followers/momenmabdelfatah?logo=github&style=
 src="https://img.shields.io/twitter/follow/mo2abdelfatah?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### Skills
-
+<p
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="81" height="81" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="81" height="81" /></div>
+
+
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+ 
+- 🔭 I’m currently working on **My own company(web Maker)**
+
+- 🌱 I’m currently learning **Devops**
+
+- 👨‍💻 All of my projects are available at [404](404)
+
+- 💬 Ask me about **React.js and Next.js, Node.js and Express**
+:
+- 📫 How to reach me [Contact me](https://tgtgygyuossef@gmail.com)
+
+- 📄 Check out my articles [my experiences](https://www.linkedin.com/in/yuossef-ahmed/)
 
 ### Socials
 
