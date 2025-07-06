@@ -1,8 +1,8 @@
-  <a href="https://www.github.com/momenmabdelfatah" target="_blank" rel="noreferrer"><img
-      src="https://img.shields.io/github/followers/momenmabdelfatah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a
-    href="https://www.x.com/mo2abdelfatah" target="_blank" rel="noreferrer"><img
-      src="https://img.shields.io/twitter/follow/mo2abdelfatah?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+  <h1 align="center">Hi 👋, I'm Momen Abdelfatah</h1>
+  <h3 align="center">A passionate full stack developer from Egypt</h3>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=momenmabdelfatah&label=Profile%20views&color=0e75b6&style=flat"
+      alt="momenmabdelfatah" /> </p>
+  <p align="center"> 
   <p <div style="display: flex; align-items: flex-start;"><img
       src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="81" height="81" /><img
       src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="81" height="81" /><img
@@ -17,6 +17,7 @@
       height="81" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="81"
       height="81" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="81"
       height="81" /></div>
+  </p>
 
 
 
