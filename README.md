@@ -39,25 +39,30 @@ src="https://img.shields.io/twitter/follow/mo2abdelfatah?logo=twitter&style=for-
 
 <b>Top Repositories</b>
 
-# GitHub Stats
+<h3 align="left">🔥   My Stats :</h3>
 
-🌟 **Public Repositories:** 26  
-👥 **Followers:** 6  
-👤 **Following:** 11  
+###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elMofaker&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=momenmabdelfatah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-<br><br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 
