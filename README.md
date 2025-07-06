@@ -16,8 +16,10 @@
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" />
-  <img src="https://techstack-generator.vercel.app/rescript-icon.svg" width="81">
+  <img src="https://techstack-generator.vercel.app/rescript-icon.svg" width="60">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" />
+</p>
+<p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" />
@@ -56,7 +58,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momenmabdelfatah&layout=compact&theme=dracula&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=momenmabdelfatah&show_icons=true&theme=dracula&hide_border=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=momenmabdelfatah&theme=dracula&hide_border=true" height="150" />
   <img src="https://github-profile-trophy.vercel.app/?username=momenmabdelfatah&theme=dracula&row=1&column=6&no-bg=true&no-frame=true" height="150" />
