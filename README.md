@@ -11,7 +11,7 @@ src="https://img.shields.io/twitter/follow/mo2abdelfatah?logo=twitter&style=for-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
  
-- 🔭 I’m currently working on **My own company(web Maker)**
+<!-- - 🔭 I’m currently working on **My own company(web Maker)** 
 
 - 🌱 I’m currently learning **Devops**
 
@@ -21,7 +21,7 @@ src="https://img.shields.io/twitter/follow/mo2abdelfatah?logo=twitter&style=for-
 :
 - 📫 How to reach me [Contact me](https://tgtgygyuossef@gmail.com)
 
-- 📄 Check out my articles [my experiences](https://www.linkedin.com/in/yuossef-ahmed/)
+- 📄 Check out my articles [my experiences](https://www.linkedin.com/in/yuossef-ahmed/)-->
 
 ### Socials
 
