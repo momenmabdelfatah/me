@@ -47,7 +47,7 @@ src="https://img.shields.io/twitter/follow/mo2abdelfatah?logo=twitter&style=for-
 ### 
 
 <div align="center">
-  <img src="[https://profile-counter.glitch.me/momenmabdelfatah/count.svg?](https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/pacman.svg)"  />
+  <img src="https://profile-counter.glitch.me/momenmabdelfatah/count.svg?"  />
 </div>
 
 ###
